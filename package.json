@@ -1,0 +1,29 @@
+{
+  "name": "generate-name",
+  "version": "0.0.1",
+  "description": "Generate Heroku-style name",
+  "main": "src/index.js",
+  "dependencies": {
+    "jsdom": "^13.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bloomca/names-generator.git"
+  },
+  "keywords": [
+    "name",
+    "generator",
+    "Heroku-style",
+    "name"
+  ],
+  "author": "Seva Zaikov <seva.zaikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bloomca/names-generator/issues"
+  },
+  "homepage": "https://github.com/Bloomca/names-generator#readme"
+}
